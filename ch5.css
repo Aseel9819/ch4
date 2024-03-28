@@ -1,0 +1,10 @@
+.Service{
+    background-color: darkgrey;
+
+}
+.Service h1{
+text-align: center;
+}
+.Service p{
+color: teal;
+}
